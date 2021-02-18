@@ -1,4 +1,4 @@
-# tmogi2021
+# ТМОГИ 2021
 [Глава №0. Введение. Начало работы](https://drive.google.com/drive/folders/1q9ILkl6kPBrzqY5IDAdt2iB8K4RCu3_s)
 
 [Глава №1. Основы C++](https://drive.google.com/drive/folders/1dMwYSpwDyVjM3WYAmFnPbQyAa7Ku27ae?usp=sharing)
